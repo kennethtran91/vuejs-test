@@ -3,7 +3,7 @@ Using vuejs and vuetifyjs to create a small signin form and a list of random par
 
 ## installation
 
-`git clone https://github.com/kennethtran91/vuejs-test.git`
+`git clone https://github.com/kennethtran91/vuejs-test.git` \n
 `npm run dev`
 
 
